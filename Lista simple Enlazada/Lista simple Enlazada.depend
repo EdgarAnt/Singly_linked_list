@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633841233 source:c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\programas en c++\lista simple enlazada\main.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<string.h>
+
